@@ -1,0 +1,2 @@
+For parser.py, please use args '--weight_file' to assign the address of the file that specify weights and args '--data_file' to assign the address of the file that has the data to input.
+For perceptron.py, please use args ‘—-data_file’ to assign the address of the file that contains data for training and args ‘—output_file' to assign the address of the file that output the trained weights.

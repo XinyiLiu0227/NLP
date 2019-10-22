@@ -1,0 +1,3 @@
+(S (A a) (B (A a) (A b)))
+(S (A a) (C (A b) (A c)))
+(S (B (A a) (A b)) (A a))
