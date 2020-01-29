@@ -1,0 +1,5 @@
+The log likelihood of the first 5 epochs for the training data are -228206164.62201855, -85726479.94539024, -74728895.81005302, -71628551.05586652 and -70578986.22067332 respectively.
+The log likelihood of the first 5 epochs for the test data are -2352615.661894649, -911342.0128732237, -804950.4920834642, -781093.0987909483 and -775992.4286774928 respectively.
+Use args ‘--train_eng' to assign the address of the file that contains English for training and args ‘—-train_fra' to assign the address of the file that contains French for training.
+Use args ‘--test_eng' to assign the address of the file that contains English for test and args ‘—-test_fra' to assign the address of the file that contains French for test.
+Use args '--num_iteration' to assign the number of iterations for EM training. The default value is 5.
